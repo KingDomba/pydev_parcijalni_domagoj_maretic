@@ -8,22 +8,22 @@
                 "product_id": 1,
                 "product_name": "Laptop",
                 "description": "15-inch display, 8GB RAM, 256GB SSD",
-                "price": 800.00,
+                "price": 800.0,
                 "quantity": 1,
-                "item_total": 800.00
+                "item_total": 800.0
             },
             {
                 "product_id": 2,
                 "product_name": "Smartphone",
                 "description": "6-inch display, 128GB storage",
-                "price": 500.00,
+                "price": 500.0,
                 "quantity": 2,
-                "item_total": 1000.00
+                "item_total": 1000.0
             }
         ],
-        "sub_total": 1800.00,
-        "tax": 180.00,
-        "total": 1980.00
+        "sub_total": 1800.0,
+        "tax": 180.0,
+        "total": 1980.0
     },
     {
         "offer_number": 2,
@@ -34,30 +34,30 @@
                 "product_id": 3,
                 "product_name": "Headphones",
                 "description": "Noise-canceling, wireless",
-                "price": 50.00,
+                "price": 50.0,
                 "quantity": 3,
-                "item_total": 150.00
+                "item_total": 150.0
             },
             {
                 "product_id": 4,
                 "product_name": "Tablet",
                 "description": "10-inch display, 64GB storage, WiFi",
-                "price": 300.00,
+                "price": 300.0,
                 "quantity": 1,
-                "item_total": 300.00
+                "item_total": 300.0
             },
             {
                 "product_id": 7,
                 "product_name": "Mouse",
                 "description": "Wireless, ergonomic design",
-                "price": 20.00,
+                "price": 20.0,
                 "quantity": 2,
-                "item_total": 40.00
+                "item_total": 40.0
             }
         ],
-        "sub_total": 490.00,
-        "tax": 49.00,
-        "total": 539.00
+        "sub_total": 490.0,
+        "tax": 49.0,
+        "total": 539.0
     },
     {
         "offer_number": 3,
@@ -68,22 +68,22 @@
                 "product_id": 5,
                 "product_name": "Monitor",
                 "description": "24-inch Full HD display",
-                "price": 150.00,
+                "price": 150.0,
                 "quantity": 2,
-                "item_total": 300.00
+                "item_total": 300.0
             },
             {
                 "product_id": 6,
                 "product_name": "Keyboard",
                 "description": "Mechanical, RGB backlit",
-                "price": 25.00,
+                "price": 25.0,
                 "quantity": 5,
-                "item_total": 125.00
+                "item_total": 125.0
             }
         ],
-        "sub_total": 425.00,
-        "tax": 42.50,
-        "total": 467.50
+        "sub_total": 425.0,
+        "tax": 42.5,
+        "total": 467.5
     },
     {
         "offer_number": 4,
@@ -94,30 +94,30 @@
                 "product_id": 2,
                 "product_name": "Smartphone",
                 "description": "6-inch display, 128GB storage",
-                "price": 500.00,
+                "price": 500.0,
                 "quantity": 1,
-                "item_total": 500.00
+                "item_total": 500.0
             },
             {
                 "product_id": 4,
                 "product_name": "Tablet",
                 "description": "10-inch display, 64GB storage, WiFi",
-                "price": 300.00,
+                "price": 300.0,
                 "quantity": 2,
-                "item_total": 600.00
+                "item_total": 600.0
             },
             {
                 "product_id": 7,
                 "product_name": "Mouse",
                 "description": "Wireless, ergonomic design",
-                "price": 20.00,
+                "price": 20.0,
                 "quantity": 3,
-                "item_total": 60.00
+                "item_total": 60.0
             }
         ],
-        "sub_total": 1160.00,
-        "tax": 116.00,
-        "total": 1276.00
+        "sub_total": 1160.0,
+        "tax": 116.0,
+        "total": 1276.0
     },
     {
         "offer_number": 5,
@@ -128,22 +128,22 @@
                 "product_id": 3,
                 "product_name": "Headphones",
                 "description": "Noise-canceling, wireless",
-                "price": 50.00,
+                "price": 50.0,
                 "quantity": 4,
-                "item_total": 200.00
+                "item_total": 200.0
             },
             {
                 "product_id": 1,
                 "product_name": "Laptop",
                 "description": "15-inch display, 8GB RAM, 256GB SSD",
-                "price": 800.00,
+                "price": 800.0,
                 "quantity": 1,
-                "item_total": 800.00
+                "item_total": 800.0
             }
         ],
-        "sub_total": 1000.00,
-        "tax": 100.00,
-        "total": 1100.00
+        "sub_total": 1000.0,
+        "tax": 100.0,
+        "total": 1100.0
     },
     {
         "offer_number": 6,
@@ -154,30 +154,30 @@
                 "product_id": 4,
                 "product_name": "Tablet",
                 "description": "10-inch display, 64GB storage, WiFi",
-                "price": 300.00,
+                "price": 300.0,
                 "quantity": 3,
-                "item_total": 900.00
+                "item_total": 900.0
             },
             {
                 "product_id": 6,
                 "product_name": "Keyboard",
                 "description": "Mechanical, RGB backlit",
-                "price": 25.00,
+                "price": 25.0,
                 "quantity": 2,
-                "item_total": 50.00
+                "item_total": 50.0
             },
             {
                 "product_id": 5,
                 "product_name": "Monitor",
                 "description": "24-inch Full HD display",
-                "price": 150.00,
+                "price": 150.0,
                 "quantity": 1,
-                "item_total": 150.00
+                "item_total": 150.0
             }
         ],
-        "sub_total": 1100.00,
-        "tax": 110.00,
-        "total": 1210.00
+        "sub_total": 1100.0,
+        "tax": 110.0,
+        "total": 1210.0
     },
     {
         "offer_number": 7,
@@ -188,29 +188,1253 @@
                 "product_id": 7,
                 "product_name": "Mouse",
                 "description": "Wireless, ergonomic design",
-                "price": 20.00,
+                "price": 20.0,
                 "quantity": 5,
-                "item_total": 100.00
+                "item_total": 100.0
             },
             {
                 "product_id": 2,
                 "product_name": "Smartphone",
                 "description": "6-inch display, 128GB storage",
-                "price": 500.00,
+                "price": 500.0,
                 "quantity": 1,
-                "item_total": 500.00
+                "item_total": 500.0
             },
             {
                 "product_id": 3,
                 "product_name": "Headphones",
                 "description": "Noise-canceling, wireless",
-                "price": 50.00,
+                "price": 50.0,
                 "quantity": 2,
-                "item_total": 100.00
+                "item_total": 100.0
             }
         ],
-        "sub_total": 700.00,
-        "tax": 70.00,
-        "total": 770.00
+        "sub_total": 700.0,
+        "tax": 70.0,
+        "total": 770.0
+    },
+    {
+        "offer_number": 8,
+        "customer": {
+            "ime kupca": "domagoj",
+            "email kupca": "domagoj",
+            "vat_id kupca": 123456
+        },
+        "date": "2025-04-04",
+        "items": [
+            {
+                "product_id": 1,
+                "product_name": "Laptop",
+                "description": "15-inch display, 8GB RAM, 256GB SSD",
+                "quantity": 5,
+                "price": 800.0,
+                "item_total": 4000.0
+            }
+        ],
+        "sub_total": 4000.0,
+        "tax": 1000.0,
+        "total": 5000.0
+    },
+    {
+        "offer_number": 9,
+        "customer": {
+            "name": "hk",
+            "email": "hjk",
+            "vat_id": 12
+        },
+        "date": "2025-04-04",
+        "items": [
+            {
+                "product_id": 2,
+                "product_name": "Smartphone",
+                "description": "6-inch display, 128GB storage",
+                "quantity": 5,
+                "price": 500.0,
+                "item_total": 2500.0
+            }
+        ],
+        "sub_total": 2500.0,
+        "tax": 625.0,
+        "total": 3125.0
+    },
+    {
+        "offer_number": 10,
+        "customer": {
+            "name": "domagoj",
+            "email": "doma",
+            "vat_id": 123456789
+        },
+        "date": "2026-04-04",
+        "items": [
+            {
+                "product_id": 5,
+                "product_name": "Monitor",
+                "description": "24-inch Full HD display",
+                "quantity": 5,
+                "price": 150.0,
+                "item_total": 750.0
+            },
+            {
+                "product_id": 6,
+                "product_name": "Keyboard",
+                "description": "Mechanical, RGB backlit",
+                "quantity": 5,
+                "price": 25.0,
+                "item_total": 125.0
+            }
+        ],
+        "sub_total": 750.0,
+        "tax": 187.5,
+        "total": 937.5
+    },
+    {
+        "offer_number": 11,
+        "customer": {
+            "name": "domagoj",
+            "email": "doma",
+            "vat_id": 123456789
+        },
+        "date": "2026-04-04",
+        "items": [
+            {
+                "product_id": 5,
+                "product_name": "Monitor",
+                "description": "24-inch Full HD display",
+                "quantity": 5,
+                "price": 150.0,
+                "item_total": 750.0
+            },
+            {
+                "product_id": 6,
+                "product_name": "Keyboard",
+                "description": "Mechanical, RGB backlit",
+                "quantity": 5,
+                "price": 25.0,
+                "item_total": 125.0
+            }
+        ],
+        "sub_total": 875.0,
+        "tax": 218.75,
+        "total": 1093.75
+    },
+    {
+        "offer_number": 12,
+        "customer": {
+            "name": "l\u010dp\u0161",
+            "email": "ioi",
+            "vat_id": 456
+        },
+        "date": "2025-01-01",
+        "items": [
+            {
+                "product_id": 5,
+                "product_name": "Monitor",
+                "description": "24-inch Full HD display",
+                "quantity": 6,
+                "price": 150.0,
+                "item_total": 900.0
+            },
+            {
+                "product_id": 7,
+                "product_name": "Mouse",
+                "description": "Wireless, ergonomic design",
+                "quantity": 5,
+                "price": 20.0,
+                "item_total": 100.0
+            }
+        ],
+        "sub_total": 900.0,
+        "tax": 225.0,
+        "total": 1125.0
+    },
+    {
+        "offer_number": 13,
+        "customer": {
+            "name": "l\u010dp\u0161",
+            "email": "ioi",
+            "vat_id": 456
+        },
+        "date": "2025-01-01",
+        "items": [
+            {
+                "product_id": 5,
+                "product_name": "Monitor",
+                "description": "24-inch Full HD display",
+                "quantity": 6,
+                "price": 150.0,
+                "item_total": 900.0
+            },
+            {
+                "product_id": 7,
+                "product_name": "Mouse",
+                "description": "Wireless, ergonomic design",
+                "quantity": 5,
+                "price": 20.0,
+                "item_total": 100.0
+            }
+        ],
+        "sub_total": 1000.0,
+        "tax": 250.0,
+        "total": 1250.0
+    },
+    {
+        "offer_number": 14,
+        "customer": {
+            "name": "ime",
+            "email": "email",
+            "vat_id": 12
+        },
+        "date": "2025-04-04",
+        "items": [
+            {
+                "product_id": 3,
+                "product_name": "Headphones",
+                "description": "Noise-canceling, wireless",
+                "quantity": 5,
+                "price": 50.0,
+                "item_total": 250.0
+            },
+            {
+                "product_id": 6,
+                "product_name": "Keyboard",
+                "description": "Mechanical, RGB backlit",
+                "quantity": 5,
+                "price": 25.0,
+                "item_total": 125.0
+            },
+            {
+                "product_id": 1,
+                "product_name": "Laptop",
+                "description": "15-inch display, 8GB RAM, 256GB SSD",
+                "quantity": 20,
+                "price": 800.0,
+                "item_total": 16000.0
+            }
+        ],
+        "sub_total": 16375.0,
+        "tax": 4093.75,
+        "total": 20468.75
+    },
+    {
+        "offer_number": 15,
+        "customer": {
+            "name": "alice",
+            "email": "johnson",
+            "vat_id": 125
+        },
+        "date": "2025-04-04",
+        "items": [
+            {
+                "product_id": 1,
+                "product_name": "Laptop",
+                "description": "15-inch display, 8GB RAM, 256GB SSD",
+                "quantity": 1,
+                "price": 800.0,
+                "item_total": 800.0
+            },
+            {
+                "product_id": 2,
+                "product_name": "Smartphone",
+                "description": "6-inch display, 128GB storage",
+                "quantity": 2,
+                "price": 500.0,
+                "item_total": 1000.0
+            }
+        ],
+        "sub_total": 1800.0,
+        "tax": 450.0,
+        "total": 2250.0
+    },
+    {
+        "offer_number": 16,
+        "customer": "Domagoj",
+        "date": "2025-04-04",
+        "items": [
+            {
+                "product_id": 6,
+                "product_name": "Keyboard",
+                "description": "Mechanical, RGB backlit",
+                "quantity": 3,
+                "price": 25.0,
+                "item_total": 75.0
+            },
+            {
+                "product_id": 3,
+                "product_name": "Headphones",
+                "description": "Noise-canceling, wireless",
+                "quantity": 6,
+                "price": 50.0,
+                "item_total": 300.0
+            },
+            {
+                "product_id": 1,
+                "product_name": "Laptop",
+                "description": "15-inch display, 8GB RAM, 256GB SSD",
+                "quantity": 20,
+                "price": 800.0,
+                "item_total": 16000.0
+            }
+        ],
+        "sub_total": 16375.0,
+        "tax": 4093.75,
+        "total": 20468.75
+    },
+    {
+        "offer_number": 17,
+        "customer": "ja",
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 15,
+                "product_name": "Gaming Console",
+                "description": "4K HDR, 1TB storage",
+                "quantity": 7,
+                "price": 400.0,
+                "item_total": 2800.0
+            }
+        ],
+        "sub_total": 2800.0,
+        "tax": 700.0,
+        "total": 3500.0
+    },
+    {
+        "offer_number": 18,
+        "customer": "domagoj",
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 15,
+                "product_name": "Gaming Console",
+                "description": "4K HDR, 1TB storage",
+                "quantity": 1,
+                "price": 400.0,
+                "item_total": 400.0
+            },
+            {
+                "product_id": 2,
+                "product_name": "Smartphone",
+                "description": "6-inch display, 128GB storage",
+                "quantity": 1,
+                "price": 500.0,
+                "item_total": 500.0
+            }
+        ],
+        "sub_total": 900.0,
+        "tax": 225.0,
+        "total": 1125.0
+    },
+    {
+        "offer_number": 19,
+        "customer": "sisi",
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 4,
+                "product_name": "Tablet",
+                "description": "10-inch display, 64GB storage, WiFi",
+                "quantity": 2,
+                "price": 300.0,
+                "item_total": 600.0
+            }
+        ],
+        "sub_total": 600.0,
+        "tax": 150.0,
+        "total": 750.0
+    },
+    {
+        "offer_number": 20,
+        "customer": "\u017e\u0161\u017e\u0161\u017e\u0161\u017e",
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 5,
+                "product_name": "Monitor",
+                "description": "24-inch Full HD display",
+                "quantity": 5,
+                "price": 150.0,
+                "item_total": 750.0
+            },
+            {
+                "product_id": 2,
+                "product_name": "Smartphone",
+                "description": "6-inch display, 128GB storage",
+                "quantity": 1,
+                "price": 500.0,
+                "item_total": 500.0
+            }
+        ],
+        "sub_total": 1250.0,
+        "tax": 312.5,
+        "total": 1562.5
+    },
+    {
+        "offer_number": 21,
+        "customer": "fkfkf",
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 4,
+                "product_name": "Tablet",
+                "description": "10-inch display, 64GB storage, WiFi",
+                "quantity": 2,
+                "price": 300.0,
+                "item_total": 600.0
+            }
+        ],
+        "sub_total": 600.0,
+        "tax": 150.0,
+        "total": 750.0
+    },
+    {
+        "offer_number": 22,
+        "customer": "gf",
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 1,
+                "product_name": "Laptop",
+                "description": "15-inch display, 8GB RAM, 256GB SSD",
+                "quantity": 5,
+                "price": 800.0,
+                "item_total": 4000.0
+            }
+        ],
+        "sub_total": 4000.0,
+        "tax": 1000.0,
+        "total": 5000.0
+    },
+    {
+        "offer_number": 23,
+        "customer": "2",
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 5,
+                "product_name": "Monitor",
+                "description": "24-inch Full HD display",
+                "quantity": 1,
+                "price": 150.0,
+                "item_total": 150.0
+            },
+            {
+                "product_id": 2,
+                "product_name": "Smartphone",
+                "description": "6-inch display, 128GB storage",
+                "quantity": 3,
+                "price": 500.0,
+                "item_total": 1500.0
+            }
+        ],
+        "sub_total": 1650.0,
+        "tax": 412.5,
+        "total": 2062.5
+    },
+    {
+        "offer_number": 24,
+        "customer": "\u010d",
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 6,
+                "product_name": "Keyboard",
+                "description": "Mechanical, RGB backlit",
+                "quantity": 6,
+                "price": 25.0,
+                "item_total": 150.0
+            },
+            {
+                "product_id": 5,
+                "product_name": "Monitor",
+                "description": "24-inch Full HD display",
+                "quantity": 1,
+                "price": 150.0,
+                "item_total": 150.0
+            }
+        ],
+        "sub_total": 300.0,
+        "tax": 75.0,
+        "total": 375.0
+    },
+    {
+        "offer_number": 25,
+        "customer": "kj",
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 5,
+                "product_name": "Monitor",
+                "description": "24-inch Full HD display",
+                "quantity": 6,
+                "price": 150.0,
+                "item_total": 900.0
+            },
+            {
+                "product_id": 5,
+                "product_name": "Monitor",
+                "description": "24-inch Full HD display",
+                "quantity": 3,
+                "price": 150.0,
+                "item_total": 450.0
+            }
+        ],
+        "sub_total": 1350.0,
+        "tax": 337.5,
+        "total": 1687.5
+    },
+    {
+        "offer_number": 26,
+        "customer": "jz",
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 1,
+                "product_name": "Laptop",
+                "description": "15-inch display, 8GB RAM, 256GB SSD",
+                "quantity": 1,
+                "price": 800.0,
+                "item_total": 800.0
+            }
+        ],
+        "sub_total": 800.0,
+        "tax": 200.0,
+        "total": 1000.0
+    },
+    {
+        "offer_number": 27,
+        "customer": "1",
+        "date": "2022-02-02",
+        "items": [
+            {
+                "product_id": 1,
+                "product_name": "Laptop",
+                "description": "15-inch display, 8GB RAM, 256GB SSD",
+                "quantity": 1,
+                "price": 800.0,
+                "item_total": 800.0
+            }
+        ],
+        "sub_total": 800.0,
+        "tax": 200.0,
+        "total": 1000.0
+    },
+    {
+        "offer_number": 28,
+        "customer": {
+            "name": "domi",
+            "email": "domi",
+            "vat_id": 343443
+        },
+        "date": "2025-02-03",
+        "items": [
+            {
+                "product_id": 1,
+                "product_name": "Laptop",
+                "description": "15-inch display, 8GB RAM, 256GB SSD",
+                "quantity": 55,
+                "price": 800.0,
+                "item_total": 44000.0
+            }
+        ],
+        "sub_total": 44000.0,
+        "tax": 11000.0,
+        "total": 55000.0
+    },
+    {
+        "offer_number": 29,
+        "customer": {
+            "name": "domi",
+            "email": "domi",
+            "vat_id": 3213
+        },
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 1,
+                "product_name": "Laptop",
+                "description": "15-inch display, 8GB RAM, 256GB SSD",
+                "quantity": 150,
+                "price": 800.0,
+                "item_total": 120000.0
+            },
+            {
+                "product_id": 5,
+                "product_name": "Monitor",
+                "description": "24-inch Full HD display",
+                "quantity": 300,
+                "price": 150.0,
+                "item_total": 45000.0
+            }
+        ],
+        "sub_total": 165000.0,
+        "tax": 41250.0,
+        "total": 206250.0
+    },
+    {
+        "offer_number": 30,
+        "customer": {
+            "name": "domi",
+            "email": "domidomi",
+            "vat_id": 123456
+        },
+        "date": "2025-06-06",
+        "items": [
+            {
+                "product_id": 4,
+                "product_name": "Tablet",
+                "description": "10-inch display, 64GB storage, WiFi",
+                "quantity": 349,
+                "price": 300.0,
+                "item_total": 104700.0
+            }
+        ],
+        "sub_total": 104700.0,
+        "tax": 26175.0,
+        "total": 130875.0
+    },
+    {
+        "offer_number": 31,
+        "customer": {
+            "name": "hddddd",
+            "email": "dddd",
+            "vat_id": 12354
+        },
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 4,
+                "product_name": "Tablet",
+                "description": "10-inch display, 64GB storage, WiFi",
+                "quantity": 21,
+                "price": 300.0,
+                "item_total": 6300.0
+            },
+            {
+                "product_id": 1,
+                "product_name": "Laptop",
+                "description": "15-inch display, 8GB RAM, 256GB SSD",
+                "quantity": 4,
+                "price": 800.0,
+                "item_total": 3200.0
+            }
+        ],
+        "sub_total": 9500.0,
+        "tax": 2375.0,
+        "total": 11875.0
+    },
+    {
+        "offer_number": 32,
+        "customer": {
+            "name": "1",
+            "email": "1",
+            "vat_id": 1
+        },
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 5,
+                "product_name": "Monitor",
+                "description": "24-inch Full HD display",
+                "quantity": 15,
+                "price": 150.0,
+                "item_total": 2250.0
+            },
+            {
+                "product_id": 3,
+                "product_name": "Headphones",
+                "description": "Noise-canceling, wireless",
+                "quantity": 2,
+                "price": 50.0,
+                "item_total": 100.0
+            }
+        ],
+        "sub_total": 2350.0,
+        "tax": 587.5,
+        "total": 2937.5
+    },
+    {
+        "offer_number": 33,
+        "customer": {
+            "name": "1",
+            "email": "1",
+            "vat_id": 1
+        },
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 1,
+                "product_name": "Laptop",
+                "description": "15-inch display, 8GB RAM, 256GB SSD",
+                "quantity": 1,
+                "price": 800.0,
+                "item_total": 800.0
+            }
+        ],
+        "sub_total": 800.0,
+        "tax": 200.0,
+        "total": 1000.0
+    },
+    {
+        "offer_number": 34,
+        "customer": "fuli",
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 3,
+                "product_name": "Headphones",
+                "description": "Noise-canceling, wireless",
+                "quantity": 3,
+                "price": 50.0,
+                "item_total": 150.0
+            }
+        ],
+        "sub_total": 150.0,
+        "tax": 37.5,
+        "total": 187.5
+    },
+    {
+        "offer_number": 35,
+        "customer": "domi",
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 1,
+                "product_name": "Laptop",
+                "description": "15-inch display, 8GB RAM, 256GB SSD",
+                "quantity": 1,
+                "price": 800.0,
+                "item_total": 800.0
+            }
+        ],
+        "sub_total": 800.0,
+        "tax": 200.0,
+        "total": 1000.0
+    },
+    {
+        "offer_number": 36,
+        "customer": {
+            "name": "domi"
+        },
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 1,
+                "product_name": "Laptop",
+                "description": "15-inch display, 8GB RAM, 256GB SSD",
+                "quantity": 1,
+                "price": 800.0,
+                "item_total": 800.0
+            }
+        ],
+        "sub_total": 800.0,
+        "tax": 200.0,
+        "total": 1000.0
+    },
+    {
+        "offer_number": 37,
+        "customer": "1",
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 5,
+                "product_name": "Monitor",
+                "description": "24-inch Full HD display",
+                "quantity": 5,
+                "price": 150.0,
+                "item_total": 750.0
+            }
+        ],
+        "sub_total": 750.0,
+        "tax": 187.5,
+        "total": 937.5
+    },
+    {
+        "offer_number": 38,
+        "customer": {
+            "name": "domi"
+        },
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 1,
+                "product_name": "Laptop",
+                "description": "15-inch display, 8GB RAM, 256GB SSD",
+                "quantity": 500,
+                "price": 800.0,
+                "item_total": 400000.0
+            }
+        ],
+        "sub_total": 400000.0,
+        "tax": 100000.0,
+        "total": 500000.0
+    },
+    {
+        "offer_number": 39,
+        "customer": "domi",
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 1,
+                "product_name": "Laptop",
+                "description": "15-inch display, 8GB RAM, 256GB SSD",
+                "quantity": 500,
+                "price": 800.0,
+                "item_total": 400000.0
+            }
+        ],
+        "sub_total": 400000.0,
+        "tax": 100000.0,
+        "total": 500000.0
+    },
+    {
+        "offer_number": 40,
+        "customer": "domingo",
+        "date": "2025-05-05",
+        "items": [
+            {
+                "product_id": 3,
+                "product_name": "Headphones",
+                "description": "Noise-canceling, wireless",
+                "quantity": 23,
+                "price": 50.0,
+                "item_total": 1150.0
+            }
+        ],
+        "sub_total": 1150.0,
+        "tax": 287.5,
+        "total": 1437.5
+    },
+    {
+        "offer_number": 41,
+        "customer": {
+            "name": "uouou"
+        },
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 4,
+                "product_name": "Tablet",
+                "description": "10-inch display, 64GB storage, WiFi",
+                "quantity": 3,
+                "price": 300.0,
+                "item_total": 900.0
+            }
+        ],
+        "sub_total": 900.0,
+        "tax": 225.0,
+        "total": 1125.0
+    },
+    {
+        "offer_number": 42,
+        "customer": {
+            "name": "domi"
+        },
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 1,
+                "product_name": "Laptop",
+                "description": "15-inch display, 8GB RAM, 256GB SSD",
+                "quantity": 1,
+                "price": 800.0,
+                "item_total": 800.0
+            }
+        ],
+        "sub_total": 800.0,
+        "tax": 200.0,
+        "total": 1000.0
+    },
+    {
+        "offer_number": 43,
+        "customer": {
+            "name": "domi"
+        },
+        "date": "2025-02-06",
+        "items": [
+            {
+                "product_id": 2,
+                "product_name": "Smartphone",
+                "description": "6-inch display, 128GB storage",
+                "quantity": 2,
+                "price": 500.0,
+                "item_total": 1000.0
+            }
+        ],
+        "sub_total": 1000.0,
+        "tax": 250.0,
+        "total": 1250.0
+    },
+    {
+        "offer_number": 43,
+        "customer": "domi",
+        "date": "2025-02-06",
+        "items": [
+            {
+                "product_id": 2,
+                "product_name": "Smartphone",
+                "description": "6-inch display, 128GB storage",
+                "quantity": 2,
+                "price": 500.0,
+                "item_total": 1000.0
+            }
+        ],
+        "sub_total": 1000.0,
+        "tax": 250.0,
+        "total": 1250.0
+    },
+    {
+        "offer_number": 45,
+        "customer": {
+            "name": "saddasd"
+        },
+        "date": "2025-06-05",
+        "items": [
+            {
+                "product_id": 15,
+                "product_name": "Gaming Console",
+                "description": "4K HDR, 1TB storage",
+                "quantity": 2,
+                "price": 400.0,
+                "item_total": 800.0
+            }
+        ],
+        "sub_total": 800.0,
+        "tax": 200.0,
+        "total": 1000.0
+    },
+    {
+        "offer_number": 45,
+        "customer": "saddasd",
+        "date": "2025-06-05",
+        "items": [
+            {
+                "product_id": 15,
+                "product_name": "Gaming Console",
+                "description": "4K HDR, 1TB storage",
+                "quantity": 2,
+                "price": 400.0,
+                "item_total": 800.0
+            }
+        ],
+        "sub_total": 800.0,
+        "tax": 200.0,
+        "total": 1000.0
+    },
+    {
+        "offer_number": 47,
+        "customer": {
+            "name": "domi"
+        },
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 8,
+                "product_name": "External Hard Drive",
+                "description": "1TB, USB 3.0",
+                "quantity": 7,
+                "price": 100.0,
+                "item_total": 700.0
+            }
+        ],
+        "sub_total": 700.0,
+        "tax": 175.0,
+        "total": 875.0
+    },
+    {
+        "offer_number": 47,
+        "customer": "domi",
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 8,
+                "product_name": "External Hard Drive",
+                "description": "1TB, USB 3.0",
+                "quantity": 7,
+                "price": 100.0,
+                "item_total": 700.0
+            }
+        ],
+        "sub_total": 700.0,
+        "tax": 175.0,
+        "total": 875.0
+    },
+    {
+        "offer_number": 49,
+        "customer": {
+            "name": "kupac"
+        },
+        "date": "2024-01-01",
+        "items": [
+            {
+                "product_id": 16,
+                "product_name": "Dell server",
+                "description": "Firewall server",
+                "quantity": 2,
+                "price": 5000.0,
+                "item_total": 10000.0
+            }
+        ],
+        "sub_total": 10000.0,
+        "tax": 2500.0,
+        "total": 12500.0
+    },
+    {
+        "offer_number": 49,
+        "customer": "kupac",
+        "date": "2024-01-01",
+        "items": [
+            {
+                "product_id": 16,
+                "product_name": "Dell server",
+                "description": "Firewall server",
+                "quantity": 2,
+                "price": 5000.0,
+                "item_total": 10000.0
+            }
+        ],
+        "sub_total": 10000.0,
+        "tax": 2500.0,
+        "total": 12500.0
+    },
+    {
+        "offer_number": 51,
+        "customer": {
+            "name": "dfdf"
+        },
+        "date": "2025-04-04",
+        "items": [
+            {
+                "product_id": 2,
+                "product_name": "Smartphone",
+                "description": "6-inch display, 128GB storage",
+                "quantity": 1,
+                "price": 500.0,
+                "item_total": 500.0
+            },
+            {
+                "product_id": 2,
+                "product_name": "Smartphone",
+                "description": "6-inch display, 128GB storage",
+                "quantity": 1,
+                "price": 500.0,
+                "item_total": 500.0
+            }
+        ],
+        "sub_total": 1000.0,
+        "tax": 250.0,
+        "total": 1250.0
+    },
+    {
+        "offer_number": 51,
+        "customer": "dfdf",
+        "date": "2025-04-04",
+        "items": [
+            {
+                "product_id": 2,
+                "product_name": "Smartphone",
+                "description": "6-inch display, 128GB storage",
+                "quantity": 1,
+                "price": 500.0,
+                "item_total": 500.0
+            },
+            {
+                "product_id": 2,
+                "product_name": "Smartphone",
+                "description": "6-inch display, 128GB storage",
+                "quantity": 1,
+                "price": 500.0,
+                "item_total": 500.0
+            }
+        ],
+        "sub_total": 1000.0,
+        "tax": 250.0,
+        "total": 1250.0
+    },
+    {
+        "offer_number": 53,
+        "customer": "fds",
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 10,
+                "product_name": "Webcam",
+                "description": "1080p HD, autofocus",
+                "quantity": 100,
+                "price": 60.0,
+                "item_total": 6000.0
+            }
+        ],
+        "sub_total": 6000.0,
+        "tax": 1500.0,
+        "total": 7500.0
+    },
+    {
+        "offer_number": 54,
+        "customer": "gogogog",
+        "date": "2026-09-09",
+        "items": [
+            {
+                "product_id": 13,
+                "product_name": "Router",
+                "description": "Dual-band, WiFi 6 support",
+                "quantity": 13,
+                "price": 70.0,
+                "item_total": 910.0
+            }
+        ],
+        "sub_total": 910.0,
+        "tax": 227.5,
+        "total": 1137.5
+    },
+    {
+        "offer_number": 55,
+        "customer": "kuipac",
+        "date": "1997-07-02",
+        "items": [
+            {
+                "product_id": 1,
+                "product_name": "Laptop",
+                "description": "15-inch display, 8GB RAM, 256GB SSD",
+                "quantity": 1120,
+                "price": 800.0,
+                "item_total": 896000.0
+            }
+        ],
+        "sub_total": 896000.0,
+        "tax": 224000.0,
+        "total": 1120000.0
+    },
+    {
+        "offer_number": 56,
+        "customer": "domi",
+        "date": "2025-01-01",
+        "items": [
+            {
+                "product_id": 1,
+                "product_name": "Laptop",
+                "description": "15-inch display, 8GB RAM, 256GB SSD",
+                "quantity": 1,
+                "price": 800.0,
+                "item_total": 800.0
+            }
+        ],
+        "sub_total": 800.0,
+        "tax": 200.0,
+        "total": 1000.0
+    },
+    {
+        "offer_number": 57,
+        "customer": "1221",
+        "date": "2022-02-02",
+        "items": [
+            {
+                "product_id": 16,
+                "product_name": "Dell server",
+                "description": "Firewall server",
+                "quantity": 5,
+                "price": 5000.0,
+                "item_total": 25000.0
+            }
+        ],
+        "sub_total": 25000.0,
+        "tax": 6250.0,
+        "total": 31250.0
+    },
+    {
+        "offer_number": 58,
+        "customer": "1",
+        "date": "2022-01-01",
+        "items": [
+            {
+                "product_id": 16,
+                "product_name": "Dell server",
+                "description": "Firewall server",
+                "quantity": 2,
+                "price": 5000.0,
+                "item_total": 10000.0
+            }
+        ],
+        "sub_total": 10000.0,
+        "tax": 2500.0,
+        "total": 12500.0
+    },
+    {
+        "offer_number": 59,
+        "customer": "domi",
+        "date": "2022-02-02",
+        "items": [
+            {
+                "product_id": 1,
+                "product_name": "Laptop",
+                "description": "15-inch display, 8GB RAM, 256GB SSD",
+                "quantity": 1,
+                "price": 800.0,
+                "item_total": 800.0
+            }
+        ],
+        "sub_total": 800.0,
+        "tax": 200.0,
+        "total": 1000.0
+    },
+    {
+        "offer_number": 60,
+        "customer": "zuzuz",
+        "date": "1991-02-02",
+        "items": [
+            {
+                "product_id": 16,
+                "product_name": "Dell server",
+                "description": "Firewall server",
+                "quantity": 2,
+                "price": 5000.0,
+                "item_total": 10000.0
+            }
+        ],
+        "sub_total": 10000.0,
+        "tax": 2500.0,
+        "total": 12500.0
+    },
+    {
+        "offer_number": 61,
+        "customer": "Novi Kupac d.o.o.",
+        "date": "2025-10-17",
+        "items": [
+            {
+                "product_id": 4,
+                "product_name": "Tablet",
+                "description": "10-inch display, 64GB storage, WiFi",
+                "quantity": 6,
+                "price": 300.0,
+                "item_total": 1800.0
+            },
+            {
+                "product_id": 5,
+                "product_name": "Monitor",
+                "description": "24-inch Full HD display",
+                "quantity": 4,
+                "price": 150.0,
+                "item_total": 600.0
+            }
+        ],
+        "sub_total": 2400.0,
+        "tax": 600.0,
+        "total": 3000.0
+    },
+    {
+        "offer_number": 62,
+        "customer": "55",
+        "date": "5555-01-01",
+        "items": [
+            {
+                "product_id": 17,
+                "product_name": "Meta Smartglasses",
+                "description": "Meta glasses",
+                "quantity": 2,
+                "price": 599.0,
+                "item_total": 1198.0
+            }
+        ],
+        "sub_total": 1198.0,
+        "tax": 299.5,
+        "total": 1497.5
     }
 ]

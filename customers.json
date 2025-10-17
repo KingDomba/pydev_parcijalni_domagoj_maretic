@@ -48,5 +48,20 @@
         "name": "Bright Ideas",
         "email": "info@brightideas.com",
         "vat_id": "90123456789"
+    },
+    {
+        "name": "domagoj",
+        "email": "domagoj",
+        "vat_id": "12324"
+    },
+    {
+        "name": "Domi Enterprise",
+        "email": "domi@enterprises.com",
+        "vat_id": "13242"
+    },
+    {
+        "name": "kkkk",
+        "email": "kkkk",
+        "vat_id": "12343"
     }
 ]
